@@ -1,8 +1,11 @@
+
+
 {
     "name": "portfolio-website",
     "version": "1.0.0",
     "description": "Subani | Web Developer Portfolio",
     "main": "index.js",
+    "homepage": "https://subhani-dev.github.io/portfolio-website",
     "scripts": {
         "start": "webpack-dev-server --mode development",
         "build": "webpack --mode production"
